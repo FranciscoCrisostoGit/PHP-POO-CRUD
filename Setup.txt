@@ -1,0 +1,6 @@
+Install WAMP or XAMPP
+Create a DB "Banco" into phpmyadmin
+Import banco.sql file
+Copy files to a new folder in www directory
+Uncomment lines in index.php to use
+
